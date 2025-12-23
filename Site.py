@@ -1,5 +1,4 @@
-<!docType html> 
-   </html>
+<!docType html> </html>
 <head>
 <title> this is my Website </title>
 </head>
